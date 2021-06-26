@@ -1,0 +1,48 @@
+<project outputDir="C:\Users\cidoc\source\repos\teste\teste\obj\x86\Release" baseDir="C:\Users\cidoc\source\repos\teste\teste\obj\x86\Release" xmlns="http://confuser.codeplex.com">
+<rule pattern="true" />
+<module path="Masterzap.exe">
+<rule pattern="true">
+<protection id="anti ildasm" />
+<protection id="constants" />
+<protection id="ctrl flow" />
+<protection id="ref proxy" />
+<protection id="resources" />
+<protection id = "rename" >
+<argument name = "mode" value = "decodable" />
+<argument name = "renPublic" value = "false" />
+<argument name = "renEnum" value = "false" />
+<argument name = "renameArgs" value = "false" />
+</protection >
+</rule>
+</module>
+<probePath>..\..\..\..\packages\EntityFramework.6.4.4\lib\net45</probePath>
+<probePath>..\..\..\..\packages\ExcelDataReader.3.6.0\lib\net45</probePath>
+<probePath>..\..\..\..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35</probePath>
+<probePath>..\..\..\..\packages\FirebaseDatabase.net.4.0.4\lib\netstandard2.0</probePath>
+<probePath>..\..\..\..\packages\FirebaseStorage.net.1.0.3\lib\netstandard1.1</probePath>
+<probePath>..\..\..\..\packages\LiteDB.5.0.9\lib\net45</probePath>
+<probePath>..\..\..\..\packages\Microsoft.Bcl.Async.1.0.168\lib\net40</probePath>
+<probePath>..\..\..\..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40</probePath>
+<probePath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Facades</probePath>
+<probePath>..\..\..\..\packages\MixERP.Net.VCards.1.0.7\lib\net461</probePath>
+<probePath>..\..\..\..\packages\Newtonsoft.Json.12.0.3\lib\net45</probePath>
+<probePath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2</probePath>
+<probePath>..\..\..\..\packages\DotNetSeleniumExtras.WaitHelpers.3.11.0\lib\net45</probePath>
+<probePath>..\..\..\..\packages\SQLitePCLRaw.core.2.0.3\lib\netstandard2.0</probePath>
+<probePath>..\..\..\..\packages\System.Buffers.4.5.1\lib\net461</probePath>
+<probePath>..\..\..\..\packages\System.Data.SQLite.Core.1.0.113.1\lib\net46</probePath>
+<probePath>..\..\..\..\packages\System.Data.SQLite.EF6.1.0.113.0\lib\net46</probePath>
+<probePath>..\..\..\..\packages\System.Data.SQLite.Linq.1.0.113.0\lib\net46</probePath>
+<probePath>..\..\..\..\packages\System.Diagnostics.DiagnosticSource.4.7.1\lib\net46</probePath>
+<probePath>..\..\..\..\packages\System.Memory.4.5.4\lib\net461</probePath>
+<probePath>..\..\..\..\packages\Microsoft.Net.Http.2.2.29\lib\net45</probePath>
+<probePath>..\..\..\..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45</probePath>
+<probePath>..\..\..\..\packages\System.Numerics.Vectors.4.5.0\lib\net46</probePath>
+<probePath>..\..\..\..\packages\System.Reactive.4.4.1\lib\net46</probePath>
+<probePath>..\..\..\..\packages\System.Runtime.CompilerServices.Unsafe.4.7.1\lib\net461</probePath>
+<probePath>..\..\..\..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461</probePath>
+<probePath>..\..\..\..\packages\System.ValueTuple.4.5.0\lib\net47</probePath>
+<probePath>..\..\..\..\packages\Microsoft.AspNet.WebPages.3.2.7\lib\net45</probePath>
+<probePath>..\..\..\..\packages\Microsoft.AspNet.Razor.3.2.7\lib\net45</probePath>
+<probePath>..\..\..\..\packages\Selenium.WebDriver.3.141.0\lib\net45</probePath>
+</project>
