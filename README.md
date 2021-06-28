@@ -17,6 +17,8 @@
 
 
  
-![Atenção](https://upload.wikimedia.org/wikipedia/commons/9/9a/Simple_Attention.svg)
+
 # DESENVOLVIDO APENAS PARA FINS DIDÁTICOS
+## SPAM é prática condenada pelo WhatsApp e passível de banimento de conta e outros problemas legais(?!) 
+![Atenção](https://upload.wikimedia.org/wikipedia/commons/9/9a/Simple_Attention.svg)
 
